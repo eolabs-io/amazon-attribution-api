@@ -1,0 +1,63 @@
+{
+    "reports": [
+        {
+            "date": "20220205",
+            "attributedAddToCartClicks14d": "3",
+            "campaignId": "Google Adwords 333",
+            "attributedPurchases14d": "0",
+            "attributedDetailPageViewsClicks14d": "23",
+            "attributedTotalAddToCartClicks14d": "3",
+            "attributedTotalPurchases14d": "0",
+            "adGroupId": "Mood Boost",
+            "advertiserName": "Lifted Naturals",
+            "creativeId": "Creative for Mood Boost",
+            "totalUnitsSold14d": "0",
+            "unitsSold14d": "0",
+            "Click-throughs": "130",
+            "publisher": "Google Adwords",
+            "attributedTotalDetailPageViewsClicks14d": "23",
+            "attributedSales14d": "0",
+            "totalAttributedSales14d": "0"
+        },
+        {
+            "date": "20220206",
+            "attributedAddToCartClicks14d": "1",
+            "campaignId": "Google Adwords 334",
+            "attributedPurchases14d": "1",
+            "attributedDetailPageViewsClicks14d": "6",
+            "attributedTotalAddToCartClicks14d": "1",
+            "attributedTotalPurchases14d": "1",
+            "adGroupId": "Mood Boost",
+            "advertiserName": "Lifted Naturals",
+            "creativeId": "Creative for Mood Boost",
+            "totalUnitsSold14d": "1",
+            "unitsSold14d": "1",
+            "Click-throughs": "102",
+            "publisher": "Google Adwords",
+            "attributedTotalDetailPageViewsClicks14d": "6",
+            "attributedSales14d": "25.88",
+            "totalAttributedSales14d": "25.88"
+        },
+        {
+            "date": "20220207",
+            "attributedAddToCartClicks14d": "3",
+            "campaignId": "Google Adwords 335",
+            "attributedPurchases14d": "2",
+            "attributedDetailPageViewsClicks14d": "13",
+            "attributedTotalAddToCartClicks14d": "3",
+            "attributedTotalPurchases14d": "2",
+            "adGroupId": "Mood Boost",
+            "advertiserName": "Lifted Naturals",
+            "creativeId": "Creative for Mood Boost",
+            "totalUnitsSold14d": "2",
+            "unitsSold14d": "2",
+            "Click-throughs": "96",
+            "publisher": "Google Adwords",
+            "attributedTotalDetailPageViewsClicks14d": "13",
+            "attributedSales14d": "51.76",
+            "totalAttributedSales14d": "51.76"
+        }
+    ],
+    "count": 3,
+    "cursorId": "{\"values\":[17103463201,1644192000000],\"page\":1,\"fields\":[\"creative_id\",\"day_timestamp\"],\"version\":\"V2\"}"
+}

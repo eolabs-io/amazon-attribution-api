@@ -1,0 +1,8 @@
+{
+    "1964981050701": {
+        "1": "?maas=maas_adg_api_1964981050701_macro_1_73&ref_=aa_maas&tag=maas&aa_campaignid={campaignid}&aa_adgroupid={adgroupid}&aa_creativeid=ad-{creative}_{targetid}_dev-{device}_ext-{feeditemid}",
+        "2": "?maas=maas_adg_api_1964981050701_macro_2_73&ref_=aa_maas&tag=maas&aa_campaignid={{campaign.id}}&aa_adgroupid={{adset.id}}&aa_creativeid={{ad.id}}",
+        "3": "?maas=maas_adg_api_1964981050701_macro_3_73&ref_=aa_maas&tag=maas&aa_campaignid={CampaignId}&aa_adgroupid={AdGroupId}&aa_creativeid=ad-{AdId}_{TargetId}_dev-{Device}_ext-{feeditemid}",
+        "4": "?maas=maas_adg_api_1964981050701_macro_4_73&ref_=aa_maas&tag=maas&aa_campaignid={campaignid}&aa_adgroupid={adgroupid}&aa_creativeid={adid}"
+    }
+}

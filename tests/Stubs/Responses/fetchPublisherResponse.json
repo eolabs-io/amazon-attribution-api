@@ -1,0 +1,149 @@
+{
+    "publishers": [
+        {
+            "name": "Google Ads",
+            "id": "1",
+            "macroEnabled": true
+        },
+        {
+            "name": "Facebook Ads",
+            "id": "2",
+            "macroEnabled": true
+        },
+        {
+            "name": "Microsoft Ads",
+            "id": "3",
+            "macroEnabled": true
+        },
+        {
+            "name": "Pinterest Ads",
+            "id": "4",
+            "macroEnabled": true
+        },
+        {
+            "name": "Snapchat Ads",
+            "id": "5",
+            "macroEnabled": false
+        },
+        {
+            "name": "Twitter Ads",
+            "id": "6",
+            "macroEnabled": false
+        },
+        {
+            "name": "LinkedIn Ads",
+            "id": "7",
+            "macroEnabled": false
+        },
+        {
+            "name": "Youtube",
+            "id": "8",
+            "macroEnabled": false
+        },
+        {
+            "name": "Display - Other",
+            "id": "9",
+            "macroEnabled": false
+        },
+        {
+            "name": "Video - Other",
+            "id": "10",
+            "macroEnabled": false
+        },
+        {
+            "name": "Blogpost - Other",
+            "id": "11",
+            "macroEnabled": false
+        },
+        {
+            "name": "Email - Other",
+            "id": "12",
+            "macroEnabled": false
+        },
+        {
+            "name": "TikTok",
+            "id": "13",
+            "macroEnabled": false
+        },
+        {
+            "name": "Reddit",
+            "id": "14",
+            "macroEnabled": false
+        },
+        {
+            "name": "Hulu",
+            "id": "15",
+            "macroEnabled": false
+        },
+        {
+            "name": "Verizon Media",
+            "id": "16",
+            "macroEnabled": false
+        },
+        {
+            "name": "BuzzFeed",
+            "id": "17",
+            "macroEnabled": false
+        },
+        {
+            "name": "Pandora",
+            "id": "18",
+            "macroEnabled": false
+        },
+        {
+            "name": "Spotify",
+            "id": "19",
+            "macroEnabled": false
+        },
+        {
+            "name": "ESPN",
+            "id": "20",
+            "macroEnabled": false
+        },
+        {
+            "name": "Slick Deals",
+            "id": "21",
+            "macroEnabled": false
+        },
+        {
+            "name": "Fox",
+            "id": "22",
+            "macroEnabled": false
+        },
+        {
+            "name": "ABC",
+            "id": "23",
+            "macroEnabled": false
+        },
+        {
+            "name": "NBC",
+            "id": "24",
+            "macroEnabled": false
+        },
+        {
+            "name": "CBS",
+            "id": "25",
+            "macroEnabled": false
+        },
+        {
+            "name": "BET",
+            "id": "26",
+            "macroEnabled": false
+        },
+        {
+            "name": "Conde Naste",
+            "id": "27",
+            "macroEnabled": false
+        },
+        {
+            "name": "Hearst Digital",
+            "id": "28",
+            "macroEnabled": false
+        },
+        {
+            "name": "Meredith Corporation",
+            "id": "29",
+            "macroEnabled": false
+        }
+    ]
+}

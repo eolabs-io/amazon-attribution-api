@@ -1,0 +1,64 @@
+{
+    "name": "eolabs-io/amazon-attribution-api",
+    "description": "A client that connects to Amazon's Attribution API",
+    "keywords": [
+        "eolabs-io",
+        "amazon-attribution-api"
+    ],
+    "homepage": "https://github.com/eolabs-io/amazon-attribution-api",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Tim Hall",
+            "email": "thall@eolabs.io",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "guzzlehttp/guzzle": "^7.2",
+        "illuminate/support": "^9.0",
+        "nunomaduro/collision": "^6.1"
+    },
+    "require-dev": {
+        "nunomaduro/collision": "^6.1",
+        "orchestra/testbench": "^7.0",
+        "pestphp/pest": "^1.21",
+        "pestphp/pest-plugin-laravel": "^1.2",
+        "phpunit/phpunit": "^9.5.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "EolabsIo\\AmazonAttributionApi\\": "src",
+            "EolabsIo\\AmazonAttributionApi\\Database\\Factories\\": "database/factories/",
+            "EolabsIo\\AmazonAttributionApi\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "EolabsIo\\AmazonAttributionApi\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage",
+        "post-autoload-dump": [
+            "@php ./vendor/bin/testbench package:discover --ansi"
+        ]
+
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "EolabsIo\\AmazonAttributionApi\\AmazonAttributionApiServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    }
+}
