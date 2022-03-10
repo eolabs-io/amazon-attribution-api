@@ -17,7 +17,7 @@ composer require eolabs-io/amazon-attribution-api
 ## Usage
 
 ```php
-// Usage description here
+// Usage description here _
 ```
 
 ### Testing
